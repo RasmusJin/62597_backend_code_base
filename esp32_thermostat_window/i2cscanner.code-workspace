@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../workspaces/esp32workspace/i2cscanner"
+		},
+		{
+			"name": "i2cScanner",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

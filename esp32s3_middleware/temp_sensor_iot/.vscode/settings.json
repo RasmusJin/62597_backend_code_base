@@ -1,0 +1,7 @@
+{
+    "idf.port": "/dev/ttyACM3",
+    "files.associations": {
+        "*.fs": "fsharp",
+        "new": "cpp"
+    }
+}
